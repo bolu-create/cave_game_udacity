@@ -1,0 +1,5 @@
+You approach the door of the house.
+You are about to knock when the door opens and out steps a x##100.
+Eep! This is the x##100's house!
+The x##100 attacks you!
+Would you like to (1) fight or (2) run away?"

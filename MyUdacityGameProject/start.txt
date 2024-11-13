@@ -1,0 +1,4 @@
+You find yourself standing in an open field , filled with grass and yellow wildflowers.
+Rumor has it that a x##100 is somewhere around here, and has been terrifying the nearby village.
+In front of you is a house.
+To your right is a dark cave.\nIn your hand you hold your trusty  (but not very effective) y##200.

@@ -1,0 +1,4 @@
+Enter 1 to knock on the door of the house.
+Enter 2 to peer into the cave.
+what would you like to do?
+(please enter 1 or 2)

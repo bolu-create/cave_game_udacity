@@ -1,0 +1,85 @@
+you find yourself standing in an open field , filled with grass and yellow wildflowers.
+Rumor has it that a pirate is somewhere around here, and has been terrifying the nearby village. 
+In front of you is a house.
+To your right is a dark cave.
+In your hand you hold your trusty  (but not very effective) dagger.
+
+Enter 1 to knock on the door of the house.
+Enter 2 to peer into the cave.
+what would you like to do?
+(please enter 1 or 2)
+
+1
+
+You approach the door of the house.
+You are about to knock when the door opens and out steps a pirate.
+Eep! This is the pirate's house!
+You feel a bit under-prepared for this, what with only having a tiny dagger.
+Would you like to (1) fught or (2) run away? 
+
+1
+
+You do your best..
+but your dagger is no match for the wicked fairie.
+You have been defeated!
+Would you like play again? (y/n)
+
+y
+
+Excellent restarting the game... (Here a name switch occurs)
+
+***now back to fight or run***
+
+2
+You run back into the field. Luckily you dont seem to have been followed.
+
+Enter 1 too knock on the door of the house.
+Enter 2 to peer into the cave.
+What would you like to do?
+(Please enter 1 or 2)
+
+2
+You peer cautiously into the cave.
+It turnns out to  be only a very small cave.
+Your eye catches a gliint of metal behind a rock.
+You have found the magical Sword of Ogorth!
+You discard your silly old dagger and take the sword with you.
+You walk back out to the field.
+
+Enter 1 to knock on the door of the house.
+Enter 2 to peer into the cave.
+What would you like to do?
+(Please enter 1 or 2)
+
+2
+
+You peer cautiously into the cave.
+You've been here before, and gotten all the good stuff. It's just an empty cave now.
+You walk back out to the field.
+
+Enter 1 to knock on the door of the house.
+Enter 2 to peer into the cave.
+What would you like to do?
+(Please enter 1 or 2)
+
+1  
+
+You approach the door of the house.
+You are about to knock when the door opens and out steps a dragon.
+Eep! This is the dragon's house!
+The dragon attacks you!
+Would you like to (1) fight or (2) run away?
+
+1
+
+As the dragon moves to attack , you unsheath your new sword.
+The sword of Ogorth shines brightly in your hand as you brace yourself for the attack.
+But the dragon takes one look at your shiny new toy and runs away!
+You have rid the town of the dragon. You are victorious!
+Would you like play again? (y/n)
+
+n
+
+Thanks for playing! See you next time.
+
+(Notice  that even when you have the sword and you decide to run, you will still get the same message as when you run normally)

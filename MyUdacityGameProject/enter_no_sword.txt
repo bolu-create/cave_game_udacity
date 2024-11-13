@@ -1,0 +1,5 @@
+You approach the door of the house.
+You are about to knock when the door opens and out steps a x##100.
+Eep! This is the x##100's house!
+You feel a bit under-prepared for this, what with only having a tiny y##200.
+Would you like to (1) fight or (2) run away? "
